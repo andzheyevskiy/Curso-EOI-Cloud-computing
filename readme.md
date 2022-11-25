@@ -1,4 +1,4 @@
-###Instalando Windows 10
+#Instalando Windows 10
 
 25 Noviembre 2022
 
