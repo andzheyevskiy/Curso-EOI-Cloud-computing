@@ -1,7 +1,10 @@
 ## Recursos
 Descarga: [Oracle VM VirtualBox](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+
 Primeros pasos para crear una maquina virtual: [Acceso](md/virtual.md)
+
 [VirtualBox for Dummies (e-book)](https://blogs.oracle.com/virtualization/post/ebook-available-virtualbox-for-dummies)
+
 [Manual de Usuario Oracle VM VirtualBox](https://docs.oracle.com/en/virtualization/virtualbox/7.0/user/index.html)
 
 

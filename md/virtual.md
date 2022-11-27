@@ -1,12 +1,37 @@
-# Instalando Windows 10
+# Creando una Maquina Virtual en Oracle VirtualBox
 
-25 Noviembre 2022
+Una vez tengamos instalado "Oracle VM VirtualBox" podemos comenzar con la creación de nuestra maquina virtual.
 
-## Paso 1
-Descargamos el fichero ISO de la heramienta "Windows creation tool" desde el siguiente enlace: [Pichar aqui](https://www.microsoft.com/es-es/software-download/windows10)
+Para ello accedemos a la opción "New" dentro de la pestaña desplegable "Machine".
 
-![](img/img01.png)
+![](img/vm01.png)
 
-Al iniciar el programa "Windows creation tools, aparece el siguiente asistente 
+El sistema nos pedirá varios datos previos antes de crear la maquina virtual.
 
-![](img/img02.png)
+![](img/vm02.png)
+
+Una vez completamos los datos solicitados. Clicamos en "Next" para continuar.
+
+A continuación nos aparecerá la opción de configurar la maquina para el uso desde otro ordenador(ordenador invitado). A menos que queramos usar la misma maquina en varios ordenadores, no cambiaremos los ajustes por defecto. 
+
+![](img/vm03.png)
+
+Seguidamente se nos pedira asignar recursos a la Maquina Virtual, primeramente Memoria(RAM) y Procesadores.
+
+*Estos recursos se pueden modificar posterior a la creación de la MV*
+
+![](img/vm04.png)
+
+Y posteriormente de Almacenamiento. 
+
+![](img/vm05.png)
+
+**Es recomendable asignar recursos en el rango recomendado por la aplicación(barra verde).** 
+
+Tendremos una pantalla resumen con las selecciones que hemos realizado. Clicamos en "Finalizar" para crear la MV.
+
+![](img/vm06.png)
+
+Finalmente podemos correr la maquina que acabamos de crear clicando en "Start" cuando seleccionamos la Maquina Virtual deseada.
+
+![](img/vm07.png)
