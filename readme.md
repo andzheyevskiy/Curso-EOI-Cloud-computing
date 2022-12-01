@@ -23,8 +23,5 @@ Descarga: [Linux CentOS](https://www.centos.org/download/)
 
 [Unir maquinas virtuales en la misma red (VirtualBox)](md/networks.md)
 
-<<<<<<< HEAD
 [Conectar CentOS a una red](md/centosNW.md)
-=======
-[Conectar CentOS a una red](md/centosNW.md)
->>>>>>> 64d36a7c2bfbbb3f7fc45ed7ac1dd7792d0286a7
+
