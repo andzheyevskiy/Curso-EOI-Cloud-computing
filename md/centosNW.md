@@ -4,11 +4,12 @@ En caso de que al usar el comando
 
     hostname -I
 
-No obtengamos una IP, tendremos que conctar la red manualmente
+No obtengamos una IP, tendremos que conectar la red manualmente
 
 ![](img/nw08.png)
 
 Para ello usaremos el comando:
+
     nmcli device status
 
 ![](img/centosnw.png)

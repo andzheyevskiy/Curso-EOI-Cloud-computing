@@ -70,3 +70,7 @@ Así como  podemos comprobar la conexión a internet con el mismo comando.
     ping [WEB SITE]
 
 ![](img/nw10.png)
+
+### Diagrama
+
+![](img/diagrama.png)

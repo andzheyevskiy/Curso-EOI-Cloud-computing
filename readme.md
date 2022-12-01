@@ -20,5 +20,7 @@ Descarga: [Linux CentOS](https://www.centos.org/download/)
 ## Contenidos
 
 [Metodos de ataque comunes](md/attack.md)
+
 [Unir maquinas virtuales en la misma red (VirtualBox)](md/networks.md)
+
 [Conectar CentOS a una red](md/centosNW.md)
