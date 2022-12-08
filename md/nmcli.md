@@ -66,3 +66,52 @@ Para crear archivo:
 `echo [contenido del archivo] > [nombre del archivo] `
 
 ![](img/nmcli7.png)
+
+## 8. Copy it from another host on your network
+
+`scp [nombre de archivo] [Usuario]@[IP]:[Directorio]`
+
+![](img/nmcli8.png)
+
+## 9. Connect to the other host and verify that it has been created.
+
+Para connectar remotamente:
+
+`ssh [Usuario]@[IP]`
+
+Y para ver archivos de un directorio:
+
+`ls`
+
+![](img/nmcli9.png)
+
+## 10. Download from ubuntu website page the iso with wget command and curl command.
+
+Primero tenemos que instalar la funcion wget para ello usaremos el siguiente comando desde un usuario sudo:
+
+`yum install wget`
+
+![](img/nmcli10.png)
+
+Para usar el comando simplemente de utiliza:
+
+
+`wget [URL del archivo a descargar]`
+
+![](img/nmcli11.png)
+
+## 11. Download SHA256 files and confirm that the downloaded file is correct (SHA256SUM) from the same page.
+
+
+Descargamos el archivo:
+
+`wget [Direccion del archivo]`
+
+![](img/nmcli12.png)
+
+y comprobamos el contenido
+
+`sha256sum -c SHA256SUMS`
+
+![](img/nmcli13.png)
+
