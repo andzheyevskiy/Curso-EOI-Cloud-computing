@@ -20,35 +20,35 @@ Y para verificar los cambios:
 
 `nmcli`
 
-![](/nmcli1.png)
+![](img/nmcli1.png)
 
 ## 2. Disable the nmcli network interface
 
 Para desactivar un dispositivo de red:
 `nmcli connection down [Nombre de dispositivo]`
 
-![](/nmcli2.png)
+![](img/nmcli2.png)
 
 ## 3. Activate the nmcli network interface
 
 Para activar un dispositivo de red:
 `nmcli connection up [Nombre de dispositivo]`
 
-![](/nmcli3.png)
+![](img/nmcli3.png)
 
 ## 4. Check with the ip command your configuration
 
 Para comprobar la IP:
 `ip addr`
 
-![](/nmcli4.png)
+![](img/nmcli4.png)
 
 ## 5. Do ping to nodes on your network
 
 Commando: 
 `ping [IP address]`
 
-![](/nmcli5.png)
+![](img/nmcli5.png)
 
 ## 6. Lists all .txt files in the current directory and then counts those .txt files and saves the output to a new file
 
@@ -56,7 +56,7 @@ Se usaría el comando ls en conjunto con wc.
 
 `. ls *.txt | wc -l > [nombre de archivo saliente].txt`
 
-![](/nmcli6.png)
+![](img/nmcli6.png)
 
 ## 7. Create a file from scratch on linux and include the following information
 
@@ -65,4 +65,4 @@ Se usaría el comando ls en conjunto con wc.
 Para crear archivo:
 `echo [contenido del archivo] > [nombre del archivo] `
 
-![](/nmcli7.png)
+![](img/nmcli7.png)
