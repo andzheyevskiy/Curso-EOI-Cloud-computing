@@ -69,9 +69,17 @@ Para crear archivo:
 
 ## 8. Copy it from another host on your network
 
+Para enviar un archivo desde Windows al servidor:
+
 `scp [nombre de archivo] [Usuario]@[IP]:[Directorio]`
 
 ![](img/nmcli8.png)
+
+Para descargar un archivo del servidor a Windows:
+
+`scp [Usuario]@[IP]:[Directorio servidor/ archivo] [Direccion destino]`
+
+![](img/nmcli08.png)
 
 ## 9. Connect to the other host and verify that it has been created.
 
