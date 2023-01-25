@@ -14,16 +14,23 @@ Task 3: Test intersite connectivity.
 ## Task 1
 
 ![](img/conect01.png)
+
 ![](img/conect02.png)
+
 ![](img/conect03.png)
+
 ![](img/conect04.png)
 
 ## Task 2
 
 ![](img/conect05.png)
+
 ![](img/conect06.png)
+
 ![](img/conect07.png)
+
 ![](img/conect08.png)
+
 ![](img/conect09.png)
 
 ## Task 3
