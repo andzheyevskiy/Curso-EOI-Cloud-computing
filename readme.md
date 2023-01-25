@@ -27,3 +27,16 @@ Descarga: [Linux CentOS](https://www.centos.org/download/)
 
 [Network tools](md/nmcli.md)
 
+[Redes Virtuales en Azure](md/vnet.md)
+
+[AZ-900 ex-4](md/ex4.md)
+
+[AZ-900 ex-8](md/ex8.md)
+
+[Redes Virtuales en Azure](md/vnet.md)
+
+[Lab1](md/lab1.md)
+
+[Lab2](md/lab2.md)
+
+[Lab5](md/lab5.md)
