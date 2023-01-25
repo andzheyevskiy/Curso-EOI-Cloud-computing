@@ -33,10 +33,12 @@ Descarga: [Linux CentOS](https://www.centos.org/download/)
 
 [AZ-900 ex-8](md/ex8.md)
 
-[Redes Virtuales en Azure](md/vnet.md)
-
 [Lab1](md/lab1.md)
 
 [Lab2](md/lab2.md)
 
 [Lab5](md/lab5.md)
+
+[Lab5](md/lab6.md)
+
+[Lab5](md/lab10.md)
