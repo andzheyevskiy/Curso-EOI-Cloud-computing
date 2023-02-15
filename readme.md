@@ -39,6 +39,6 @@ Descarga: [Linux CentOS](https://www.centos.org/download/)
 
 [Lab5](md/lab5.md)
 
-[Lab5](md/lab6.md)
+[Lab6](md/lab6.md)
 
-[Lab5](md/lab10.md)
+[Lab10](md/lab10.md)
